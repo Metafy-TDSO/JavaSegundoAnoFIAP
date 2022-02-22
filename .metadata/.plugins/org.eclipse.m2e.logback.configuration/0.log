@@ -5287,3 +5287,13 @@ org.eclipse.core.runtime.CoreException: Launch configuration TesteAtualizacao re
 2022-02-22 19:13:46,118 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2022-02-22 19:13:46,120 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-02-22 19:13:46,123 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-22 19:42:23,784 [Worker-34: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Fiap:smartcities:0.0.1-SNAPSHOT @ /home/accountfy/Documentos/FIAP/2o_ano/Java/smartcities/pom.xml.
+2022-02-22 19:42:24,292 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-22 19:42:24,296 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-22 19:42:24,297 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-22 19:42:24,300 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-22 19:45:37,441 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.5; built: 2021-06-11T14:18:43.438Z; git: dc21b2d73cafd78a56e8e532cf50863739bd7027; jvm 11.0.13+8-Ubuntu-0ubuntu1.20.04
+2022-02-22 19:45:37,475 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2022-02-22 19:45:37,507 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@5553f5b4{/help,null,AVAILABLE}
+2022-02-22 19:45:37,513 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@5af8a01e{HTTP/1.1, (http/1.1)}{127.0.0.1:35737}
+2022-02-22 19:45:37,515 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@58fa9d90{STARTING}[10.0.5,sto=0] @2164926ms
