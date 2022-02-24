@@ -1,4 +1,4 @@
-package smartcities.test;
+package br.com.fiap.tests;
 
 import java.util.ArrayList;
 import java.util.Calendar;
@@ -9,10 +9,10 @@ import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 
-import smartcities.entity.Cliente;
-import smartcities.entity.ContratoAluguel;
-import smartcities.entity.Estabelecimento;
-import smartcities.entity.TipoEstabelecimento;
+import br.com.fiap.entities.Cliente;
+import br.com.fiap.entities.ContratoAluguel;
+import br.com.fiap.entities.Estabelecimento;
+import br.com.fiap.entities.TipoEstabelecimento;
 
 public class Cadastro {
 

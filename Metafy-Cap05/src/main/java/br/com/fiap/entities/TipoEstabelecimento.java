@@ -1,4 +1,4 @@
-package smartcities.entity;
+package br.com.fiap.entities;
 
 import java.util.List;
 
